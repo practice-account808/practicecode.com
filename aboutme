@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+           
+<title>Mikayla's About Me</title>
+
+<head>
+
+            <style>
+                       body      {background-color:lightblue;}
+                       h1        {color: white;}
+                       p         {color: black;}
+		    
+		    .div1 	{
+			    	width: 300px;
+				height: 100px;
+				border: 4px solid black;
+				}
+                
+                
+            </style>
+</head>
+			<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" href="/w3css/3/w3.css">
+           <body>
+			 
+		   
+                        <h1 style="
+ 		        font-family: biorhyme;
+		        font-size: 300%;
+		        text-align:center;">
+                        Home :)</h1>
+
+                      <p style=" 
+ 			 font-family: biorhyme;
+			 font-size: 100%;
+			 text-align:center;">
+                      ABOUT ME: WORDS WORDS WORDS
+                      </p>
+
+                    
+
+           </body>
+</html>
